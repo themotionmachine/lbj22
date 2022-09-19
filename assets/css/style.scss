@@ -1,0 +1,45 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+
+
+.page-header {
+  
+    // background-image: url('{{ site.baseurl }}/img/UT.jpg');
+    background-image: linear-gradient(to right, rgba(245, 246, 252, 0.52), rgba(117, 40, 19, 0.73)),
+    url('{{ site.baseurl }}/img/UT.jpg');
+    background-size: cover;
+    background-position: 0% 40%;
+    
+    
+  }
+ 
+  
+ .project-tagline{
+  
+ } 
+ 
+.main-content h1, .main-content h2, .main-content h3 {
+  color: #bf5700;
+}
+
+// .btn {
+//   background: rgba(49, 49, 49, 0.2);
+// border-radius: 16px;
+// box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+// backdrop-filter: blur(5.5px);
+// -webkit-backdrop-filter: blur(5.5px);
+// border: 1px solid rgba(49, 49, 49, 0.3);
+// }
+
+.header-glass {
+  background: rgba(49, 49, 49, 0.2);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(5.5px);
+  -webkit-backdrop-filter: blur(5.5px);
+  border: 1px solid rgba(49, 49, 49, 0.3);
+}
+
