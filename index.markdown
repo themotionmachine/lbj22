@@ -15,7 +15,7 @@ This workshop will provide an opportunity for PhD students engaged in policy-rel
 
 | Date | Milestone | 
 |-------|--------|
-| Oct 20, 2022 | ![Deadline for submissions of abstracts ](mailto:lbj.research.workshop@austin.utexas.edu) | 
+| Oct 20, 2022 | [Deadline for submissions of abstracts ](mailto:lbj.research.workshop@austin.utexas.edu) | 
 | Nov 18, 2022 | Notification of selected presenters | 
 | Jan 6, 2023 | Deadline for submission of full paper | 
 | Jan 20, 2023 | Workshop | 
