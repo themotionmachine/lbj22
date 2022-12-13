@@ -16,6 +16,4 @@ This workshop will provide an opportunity for PhD students engaged in policy-rel
 
 # Workshop Agenda
 
-<!-- <object data="{{ site.baseurl }}/assets/Call.pdf" width="600" height="800" type='application/pdf'></object>  -->
-
-<object data="https://docs.google.com/document/d/1mJ6uq1v2jCfi5J_-nkHnRERZ5WH0zTOy6xOjLxUJOwg/view" width="600" height="800" type='application/pdf'></object>
+<object data="{{ site.baseurl }}/assets/Workshop\ Agenda.pdf" width="600" height="800" type='application/pdf'></object> 
