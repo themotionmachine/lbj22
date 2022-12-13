@@ -8,18 +8,14 @@ permalink: /
 ---
 
 
-# LBJ Policy Research Workshop
+# LBJ Policy Research Workshop - Jan 20th, 2023
 ## A workshop designed for early-career researchers.
 
 This workshop will provide an opportunity for PhD students engaged in policy-relevant research to present their work in an interdisciplinary academic setting that explores how academia can develop and promote policy-relevant research to offer solutions to pressing policy problems. Participants will obtain feedback from faculty and graduate student discussants and have an opportunity to network with policy researchers across the state of Texas.
 
-| Date | Milestone | 
-|-------|--------|
-| Oct 27, 2022 | [Deadline for submissions of abstracts ](mailto:lbj.research.workshop@austin.utexas.edu) | 
-| Nov 18, 2022 | Notification of selected presenters | 
-| Jan 6, 2023 | Deadline for submission of full paper | 
-| Jan 20, 2023 | Workshop | 
 
-# Read the Call for Submisisons 
+# Workshop Agenda
 
-<object data="{{ site.baseurl }}/assets/Call.pdf" width="600" height="800" type='application/pdf'></object> 
+<!-- <object data="{{ site.baseurl }}/assets/Call.pdf" width="600" height="800" type='application/pdf'></object>  -->
+
+<object data="https://docs.google.com/document/d/1mJ6uq1v2jCfi5J_-nkHnRERZ5WH0zTOy6xOjLxUJOwg/view" width="600" height="800" type='application/pdf'></object>
