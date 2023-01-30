@@ -17,7 +17,8 @@ This workshop featured presentations on policy-relevant research from PhD studen
 
 <!-- add h1 link to gallery page -->
 
-#[2023 Photo Gallery](/gallery)
+# 2023 Photo Gallery
+[Click here to visit the 2023 event photo gallery.](/gallery)
 
 
 # 2023 Workshop Agenda
