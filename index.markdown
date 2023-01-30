@@ -9,11 +9,17 @@ permalink: /
 
 
 # LBJ Policy Research Workshop - Jan 20th, 2023
-## A workshop designed for early-career researchers.
+## Thank you to all who participated! Stay tuned for news about next year's event.
 
-This workshop will feature presentations on policy-relevant research from PhD students across UT and beyond, exploring how academia can develop and promote solutions to pressing policy problems. In addition to the presentations, there will be ample time for attendees to network with policy researchers across the state of Texas.
+This workshop featured presentations on policy-relevant research from PhD students across UT and beyond, exploring how academia can develop and promote solutions to pressing policy problems. 
 
 
-# Workshop Agenda
+
+<!-- add h1 link to gallery page -->
+
+#[2023 Photo Gallery](/gallery)
+
+
+# 2023 Workshop Agenda
 
 <object data="{{ site.baseurl }}/assets/Agenda.pdf" width="600" height="800" type='application/pdf'></object> 
